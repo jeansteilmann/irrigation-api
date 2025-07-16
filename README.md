@@ -85,7 +85,3 @@ Authorization: Bearer <seu_token_jwt>
 - Express.js
 - JWT (JSON Web Tokens)
 - JavaScript
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
